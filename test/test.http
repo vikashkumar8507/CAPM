@@ -1,0 +1,2 @@
+@baseUrl = http://localhost:4004/odata/v4
+GET {{baseUrl}}/hello/sayHello(name='this my first Hello World applicaion')
